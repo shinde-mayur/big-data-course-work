@@ -48,3 +48,7 @@ dist/**
 *.xlf
 package.nls.*.json
 l10n/
+
+# Dataset files
+diabetic_data.csv
+IDS_mapping.csv
