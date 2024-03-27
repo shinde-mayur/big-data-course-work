@@ -52,3 +52,4 @@ l10n/
 # Dataset files
 diabetic_data.csv
 IDS_mapping.csv
+*.docx
